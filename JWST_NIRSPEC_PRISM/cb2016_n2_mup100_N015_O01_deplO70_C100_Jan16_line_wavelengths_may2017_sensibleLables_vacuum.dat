@@ -1,0 +1,260 @@
+wl:609.79 use:T print:T label:Mg10_610  
+wl:624.94 use:T print:T label:Mg10_625  
+wl:615.00 use:F print:F label:_615  # sum of Mg10 components
+wl:629.73 use:T print:T label:O5_630  
+wl:655.55 use:T print:T label:S4_655  
+wl:679.32 use:T print:T label:N3_678  # no wl:678.21 in nist
+wl:702.34 use:T print:T label:O3_698  # no wl:698.23 in nist
+wl:732.13 use:T print:T label:S4_737  # no 737.30 in nist : 732.165, 744.904
+wl:757.89 use:T print:T label:N3_752  # no 752.11 in nist
+wl:765.15 use:T print:T label:N4_765  
+wl:770.41 use:T print:T label:Ne8_770 
+wl:780.32 use:T print:T label:Ne8_780 
+wl:774.00 use:F print:F label:_774  # sum of Ne8 components
+wl:786.47 use:T print:T label:S5_786  
+wl:790.20 use:T print:T label:O4_789  # no wl:789.40 in nist
+wl:798.85 use:T print:T label:S4_799  # there is also another line at 798.99 but nist says that blended
+wl:834.47 use:T print:T label:O2_834  # no wl:833.80 in nist
+wl:835.29 use:T print:T label:O3_835  # no wl:834.50 in nist
+wl:895.12 use:T print:T label:Ne7_895 
+wl:933.38 use:T print:T label:S6_933  
+wl:944.52 use:T print:T label:S6_945  
+wl:950.66 use:T print:T label:P4_951  
+wl:972.54 use:T print:T label:LyG_973 
+wl:977.02 use:T print:T label:C3_977  
+wl:991.58 use:T print:T label:N3_991  
+wl:1025.73  use:T print:T label:HLyB_1026 
+wl:1031.91  use:T print:T label:O6_1032 
+wl:1037.61  use:T print:T label:O6_1038 
+wl:1035.00  use:F print:F label:_1035 # sum of O6 components
+wl:1084.98  use:T print:T label:He2BaG_1085 # no wl:1085.03    in nist
+wl:1088.21  use:T print:T label:S4_1086 # no wl:1086.27   in nist
+wl:1123.08  use:T print:T label:P5_1121 # no wl:1121.30 in nist : 1 117.977, 1 128.008
+wl:1124.88  use:T print:T label:Fe3_1126  # no wl:1125.79   in nist
+wl:1141.00  use:T print:T label:Ne5_1141  # no wl:1141.00 in nist 1136.51, 1145.61 (no A in nist)
+wl:1176.26  use:T print:T label:C3_1176 # 1175.53   #I take from nist the line that has the highest rel intensity there is another at 1175.99 and 1176.37
+wl:1197.16  use:T print:T label:S3_1198 # no wl:1197.56   in nist : 1 194.058, 1 200.966
+wl:1199.13  use:T print:T label:S5_1198 # line_labels.txt file says: 48528 TOTL   1198A  S V 1198] both lines together #in nist 1199.13 wl:1198.00
+wl:1206.56  use:T print:T label:Si3_1207  
+wl:1215.67  use:F print:F label:_1215 
+wl:1215.67  use:T print:T label:HLyA_1216 
+wl:1215.17  use:T print:T label:He2BaB_1215 
+wl:1218.34  use:T print:T label:O5_1218 
+wl:1218.00  use:F print:F label:_1218 
+wl:1238.82  use:T print:T label:N5_1239 
+wl:1242.80  use:T print:T label:N5_1243 
+wl:1240.79  use:F print:F label:_1240 # sum of N5 components
+wl:1256.67  use:T print:T label:S2_1256 # In nist there is not wl:1256.00, there is 1 253.811 and 1 259.519
+wl:1264.74  use:T print:T label:Si2_1263  # no wl:1263.32 in nist
+wl:1304.86  use:T print:T label:_1304 # fluorescent line #OI obtained from Chianti
+wl:1306.18  use:T print:T label:Si2_1308  # no wl:1307.66 in nist : 1 304.370, 1 309.276
+wl:1334.53  use:T print:T label:C2_1335 
+wl:1393.76  use:T print:T label:Si4_1394  
+wl:1402.77  use:T print:T label:Si4_1403  
+wl:1398.00  use:F print:F label:_1397 # sum of Si4 components
+wl:1401.35  use:T print:T label:O4_1402 # no wl:1402.00    in nist, nor cloudy (1400 or 1401)
+wl:1406.02  use:T print:T label:S4_1406 
+wl:1485.00  use:F print:T label:N4_1485 
+wl:1486.50  use:T print:T label:N4_1486 
+wl:1528.97  use:T print:T label:Si2_1531  # no wl:1531.00 in nist: 1526.72, 1533.43
+wl:1548.19  use:T print:T label:C4_1548 
+wl:1550.77  use:T print:T label:C4_1551 
+wl:1549.00  use:F print:F label:_1549 # sum of C4 components
+wl:1574.70  use:T print:T label:Ne5_1575  
+wl:1601.68  use:T print:T label:Ne4_1602  # no wl:1602.00   in nist
+wl:1640.42  use:T print:T label:HeBaA_1640  
+wl:1660.81  use:T print:T label:O3_1661 
+wl:1665.00  use:F print:F label:_1665 
+wl:1666.15  use:T print:T label:O3_1666 
+wl:1670.79  use:T print:T label:Al2_1671  
+wl:1718.55  use:T print:T label:N4_1719 
+wl:1717.22  use:T print:T label:S3_1720 # no wl:1720.00    in nist (1713.12,1728.94), in chianti CII et AlII have line at 1720A
+wl:1751.66  use:T print:T label:N3_1750 # total N III] 1750 (all components), no 1750.00  in nist
+wl:1786.78  use:T print:T label:Fe2_1786  
+wl:1812.38  use:T print:T label:Si2_1814  # no wl:1813.99   in nist : 1 808.013, 1 816.928
+wl:1814.56  use:T print:T label:Ne3_1815  # no wl:1815.00 in nist
+wl:1854.72  use:T print:T label:Al3_1855  
+wl:1862.79  use:T print:T label:Al3_1863  
+wl:1860.00  use:F print:F label:_1860 # sum of Al3 components
+wl:1882.71  use:T print:T label:Si3_1883  # not in nist
+wl:1888.00  use:F print:F label:_1888 
+wl:1892.03  use:T print:T label:Si3_1892  # not in nist, taken from chianti
+wl:1906.68  use:T print:T label:C3_1907 
+wl:1907.70  use:F print:F label:_1909 
+wl:1908.73  use:T print:T label:C3_1910 
+wl:2170.37  use:T print:T label:Fe12_2169 
+wl:2142.30  use:T print:T label:N2_2141 # in leitherer just 2140 #no wl:2140.00    in nist: 2139.01, 2142.77, in chianti NII FeII
+wl:2147.31  use:T print:T label:Si7_2148  # no wl:2148.00    in nist
+wl:2297.578 use:T print:T label:C3_2297 # leitherer 2297.58, nist 2296.87
+wl:2321.664 use:T print:T label:O3_2321 # nist 2320.95 (forbidden line at 2321.66), in chianti this wavelength
+wl:2326.11  use:T print:T label:C2_2326 # total C II] 2324.69 + 2328.12
+wl:2335.123 use:T print:T label:Si2_2335  # total Si II] 2335 all lines in multiplet # no line of multiplet in wl:2335.00
+wl:2412.87  use:T print:T label:Ca5_2413  
+wl:2424.42  use:T print:T label:Ne4_2424  
+wl:2471.00  use:T print:T label:O2_2471 #leitherer 2470.97 2471.09 # no wl:2471.00  in nist, forbidden
+wl:2665.00  use:T print:T label:_2665 
+wl:2796.352 use:T print:T label:Mg2_2796  # leitherer wl:2796.35   
+wl:2803.531 use:T print:T label:Mg2_2803  # leitherer wl:2803.53   
+wl:2798.00  use:F print:F label:_2798 # sum of Mg2 components
+wl:2974.00  use:T print:T label:Ne5_2976  # no wl:2976.00    in nist  
+wl:3203.872514 use:T print:T label:He2PaB_3203 # no wl:3203.30      in nist
+wl:3343.14  use:T print:T label:Ne3_3343  # no wl:3343.00     in nist 
+wl:3354.138 use:T print:T label:Cl3_3354  # no wl:3354.00      in nist
+wl:3426.864 use:T print:T label:Ne5_3426  
+wl:3587.34  use:T print:T label:Fe7_3586  
+wl:3722.69  use:T print:T label:S3_3722 
+wl:3727.10  use:T print:T label:O2_3726 # the highest intensity in nist
+wl:3728.00  use:F print:F label:_3727 # sum of O2 components
+wl:3729.875 use:T print:T label:O2_3729 
+wl:3759.99  use:T print:T label:Fe7_3759  
+wl:3869.86  use:T print:T label:Ne3_3869  # no wl:3869.00    in nist  
+wl:3889.73  use:T print:T label:He1_3889  
+wl:3934.777 use:T print:T label:Ca2_3933  
+wl:3935.11377 use:T print:T label:Ca2K_3934 
+wl:3969.592763 use:T print:T label:Ca2H_3969 
+wl:3999.130474 use:T print:T label:C5_3998 # no nist, nor in cloudy?
+wl:4069.749 use:T print:T label:S2_4070 # no wl:4070.00    in nist: 4 068.600, 4 076.349
+wl:4075.150346 use:F print:F label:S2_4074 # no nist
+wl:4077.50  use:T print:T label:S2_4078 # no wl:4078.00      in nist
+wl:4102.859855 use:T print:T label:HBaD_4102 
+wl:4341.647191 use:T print:T label:HBaG_4340 
+wl:4364.436 use:T print:T label:O3_4363 
+wl:4686.688168 use:T print:T label:He2_4686  # no wl:4686.01  in nist
+wl:4699.56  use:T print:T label:Fe7_4699  
+wl:4721.950678 use:T print:T label:Ne4_4720  # no wl:4720.00 , 4715.66 y 4724.15(4725.49 in chianti)
+wl:4741.45  use:T print:T label:Ar4_4740  
+wl:4860.00  use:F print:F label:_4860 
+wl:4862.636562 use:T print:T label:HBaB_4861 
+wl:4894.74  use:T print:T label:Fe7_4894  
+wl:4943.86  use:T print:T label:Fe7_4943  
+wl:4960.295 use:T print:T label:O3_4959 
+wl:4989.95  use:T print:T label:Fe7_4989  
+wl:5008.24  use:T print:T label:O3_5007 
+wl:5160.33  use:T print:T label:Fe7_5159  
+wl:5201.285 use:T print:T label:N1_5200 
+wl:5277.85  use:T print:T label:Fe7_5277  
+wl:5304.30  use:T print:T label:Fe14_5303 
+wl:5310.59  use:T print:T label:Ca5_5309  
+wl:5578.887 use:T print:T label:O1_5577 
+wl:5722.30  use:T print:T label:Fe7_5721  
+wl:5756.19  use:T print:T label:N2_5755 # no wl:5755.00   in nist 
+wl:5877.249 use:T print:T label:He1_5876  
+wl:6088.06  use:T print:T label:Ca5_6086  
+wl:6088.70  use:T print:T label:Fe7_6087  
+wl:6302.046 use:T print:T label:O1_6300 
+wl:6365.535 use:T print:T label:O1_6363 
+wl:6313.81  use:T print:T label:S3_6312 
+wl:6376.30  use:T print:T label:Fe10_6375 
+wl:6549.86  use:T print:T label:N2_6548 
+wl:6564.522556 use:T print:T label:HBaA_6563 
+wl:6585.273 use:T print:T label:N2_6584 # no wl:6584.00   in nist
+wl:6718.295 use:T print:T label:S2_6716 
+wl:6721.855153 use:F print:F label:S2_6720 # no nist
+wl:6732.674 use:T print:T label:S2_6731 
+wl:7007.76  use:T print:T label:Ar5_7005  
+wl:7137.76  use:T print:T label:Ar3_7135  
+wl:7293.00892 use:T print:T label:CaF1_7291 # no nist, 5 level atom
+wl:7326.017816 use:T print:T label:CaF2_7324 # no nist
+wl:7327.018085 use:T print:T label:Ar3_7325  # no nist
+wl:7334.17  use:T print:T label:Ar4_7331  # no wl:7331.00   in nist
+wl:7337.00  use:T print:T label:Cl9_7334  
+wl:7753.215 use:T print:T label:Ar3_7751  
+wl:7894.00  use:T print:T label:Fe11_7892 
+wl:8047.84  use:T print:T label:Cl4_8047  # no wl: 8047.00   in nist
+wl:8448.568 use:T print:T label:O1_8446 
+wl:8500.354833 use:T print:T label:Ca2X_8498 
+wl:8544.43675 use:T print:T label:Ca2Y_8542 
+wl:8664.519217 use:T print:T label:Ca2Z_8662 
+wl:8581.356731 use:T print:T label:Ca2_8579  # no nist
+wl:9071.10  use:T print:T label:S3_9069 
+wl:9231.546 use:T print:T label:H1_9229 
+wl:9533.20  use:T print:T label:S3_9532 
+wl:9548.588 use:T print:T label:H1_9546 
+wl:9852.951 use:T print:T label:C1_9850 
+wl:10289.55 use:T print:T label:S2_10289  # no wl:10289.00   in nist
+wl:10323.32 use:T print:T label:S2_10323  # no wl:10323.00   in nist: 10332.9,10320.49   
+wl:10373.34 use:T print:T label:S2_10373  # no wl:10373.00   in nist
+wl:10339.24 use:T print:T label:S2_10339  # no wl:10339.00   in nist
+wl:10400.587 use:T print:T label:N1_10398  
+wl:10829.90 use:T print:T label:_10830  
+wl:18755.80357 use:T print:T label:HPaA_18751  
+wl:12821.43203 use:T print:T label:HPaB_12818  
+wl:10940.97787 use:T print:T label:HPaG_10938  
+wl:10052.123 use:T print:T label:HPaD_10049  
+wl:40522.69 use:T print:T label:HBrA_40512  # no wl:40511.60   in nist
+wl:26258.68 use:T print:T label:HBrB_26252  # no wl:26251.50   in nist
+wl:21661.18 use:T print:T label:HBrG_21655  # no wl:21655.30   in nist
+wl:19450.89 use:T print:T label:HBrD_19446  
+wl:1576430.00 use:T print:T label:C2_1576000  
+wl:1218000.00 use:T print:T label:N2_1217000  
+wl:2053000.00 use:T print:T label:N2_2054000  
+wl:573300.00  use:T print:T label:N3_572100 # no 572100.00 in nist
+wl:631852.00  use:T print:T label:O1_631700 # no 631700.00 in nist
+wl:1455350.00 use:T print:T label:O1_1455300  # no wl:1455300.00   in nist
+wl:518145.00  use:T print:T label:O3_518000 # no 518000.00 in nist
+wl:883564.00  use:T print:T label:O3_883300 # no 883300.00 in nist
+wl:259130.00  use:T print:T label:O4_258800 # no wl:258800.00 in nist
+wl:128135.48  use:T print:T label:Ne2_128100  # no wl:128100.00   in nist
+wl:155551.00  use:T print:T label:Ne3_155500  
+wl:360135.00  use:T print:T label:Ne3_360140  
+wl:143217.00  use:T print:T label:Ne5_143200  
+wl:76522.00 use:T print:T label:Ne6_76520 # no wl: 76520.00   in nist
+wl:73177.00 use:T print:T label:Na3_73200 # no wl:73200.00   in nist
+wl:90391.00 use:T print:T label:Na4_90390 
+wl:212900.00  use:T print:T label:Na4_212900  
+wl:143964.00  use:T print:T label:Na6_144000  # no wl:144000.00   in nist
+wl:86106.00 use:T print:T label:Na6_86110 
+wl:44880.00 use:T print:T label:Mg4_44850 # no wl:44850.00   in nist 
+wl:56082.00 use:T print:T label:Mg5_56100 # no wl:56100.00   in nist 
+wl:135370.00  use:T print:T label:Mg5_135200  # no wl:135200.00   in nist   
+wl:55040.00 use:T print:T label:Mg7_55030 # no wl:55030.00   in nist   
+wl:90330.00 use:T print:T label:Mg7_90330 # no wl:30300.00   in nist   
+wl:30280.00 use:T print:T label:Mg8_30300 
+wl:29050.00 use:T print:T label:Al5_29052 # no wl:29052.00   in nist   
+wl:36603.00 use:T print:T label:Al6_36600 # no wl:36600.00    in nist  
+wl:91160.00 use:T print:T label:Al6_91160 
+wl:58500.00 use:T print:T label:Al8_58480 # no wl:58480.00   in nist   
+wl:36900.00 use:T print:T label:Al8_36900 
+wl:348140.00  use:T print:T label:Si2_348140  
+wl:19646.00 use:T print:T label:Si6_19631 # no wl:19631.00   in nist   
+wl:24810.00 use:T print:T label:Si7_24810 
+wl:64920.00 use:T print:T label:Si7_64920 # no wl:64920.00 in nist, 65150
+wl:39290.00 use:T print:T label:Si9_39290 
+wl:25850.00 use:T print:T label:Si9_25840 # no wl:25840.00     in nist 
+wl:14304.90 use:T print:T label:Si10_14300  
+wl:187130.00  use:T print:T label:S3_186700 # no wl:186700.00 in nist
+wl:334800.00  use:T print:T label:S3_334700 
+wl:105105.00  use:T print:T label:S4_105100 
+wl:9916.00  use:T print:T label:S8_9914 
+wl:12523.00 use:T print:T label:S9_12520  
+wl:19201.00 use:T print:T label:S11_19201 # no wl:19201.00    in nist  
+wl:13927.40 use:T print:T label:S11_13927 # no wl:13927.00    in nist  
+wl:69852.74 use:T print:T label:Ar2_69800 # no wl:69800.00     in nist
+wl:89913.80 use:T print:T label:Ar3_90000 # no wl:90000.00      in nist
+wl:218302.00  use:T print:T label:Ar3_218300  # no wl:218300.00      in nist
+wl:79019.00 use:T print:T label:Ar5_80000 # no wl:80000.00    in nist  
+wl:131021.00  use:T print:T label:Ar5_131000  # no wl: 131000.00    in nist  
+wl:45292.00 use:T print:T label:Ar6_45300 # no wl:45300.00      in nist
+wl:5534.8019 use:T print:T label:Ar10_5534 
+wl:25953.50 use:T print:T label:Ar11_25950  # no nist, taken from cloudy output
+wl:32070.00 use:T print:T label:Ca4_32100 # no 32100.00   in nist   
+wl:41585.00 use:T print:T label:Ca5_41570 
+wl:114824.00  use:T print:T label:Ca5_114800  
+wl:23211.00 use:T print:T label:Ca8_23210 
+wl:23118.00 use:T print:T label:Sc5_23100 # no wl:23100.00    in nist
+wl:17156.00 use:T print:T label:Ti6_17150 
+wl:13041.00 use:T print:T label:V7_13040  
+wl:10109.00 use:T print:T label:Cr8_10110 
+wl:7970.70  use:T print:T label:Mn9_7968  
+wl:5169.30  use:T print:T label:Co11_5168 
+wl:4232.10  use:T print:T label:Ni12_4231 
+wl:6183.6946 use:T print:T label:Fe2_6200  # no wl:6200.00 in nist
+wl:4299.88794 use:T print:T label:Fe2_4300  # no wl:4300.00   in nist : 4296.57, 4303.17   
+wl:2400.37553 use:T print:T label:Fe2_2400  
+wl:1080.10  use:T print:T label:Fe2_1080  # no wl:1080.00 in nist  1081.88,  1079.85
+wl:1500.34  use:T print:T label:Fe2_1500  
+wl:11502.9118 use:T print:T label:Fe2_11500 # no wl:11500.00    in nist  
+wl:2501.06108 use:T print:T label:Fe2_2500  
+wl:2300.6433 use:T print:T label:Fe2_2300  
+wl:8900.2456 use:T print:T label:Fe2_8900  # no wl:8900.00   in nist  8897.80,  8904.79
+wl:1216.52  use:T print:T label:Fe2_1216  
